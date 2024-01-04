@@ -24,7 +24,7 @@ An innovative Augmented Reality (AR) application that breathes life into histori
 3. Experience the building coming to life with a detailed audio description.
 
 ## Credits
-- Project developed by [Your Name].
+- Project developed by Bernardo Bogado in 20th December, 2018.
 - Historical facts and stories curated from reputable sources.
 
 Feel free to explore, learn, and enjoy the rich history of Buenos Aires through the lens of Augmented Reality!
