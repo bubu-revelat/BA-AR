@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{12864A87-C8DD-445A-1EF1-F89F454AD4EE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/vb_anim.cs">
+    <Files>
+      <File FileName="Assets/vb_anim.cs" Line="7" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TesisBubu" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="vb_anim.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
